@@ -39,7 +39,7 @@ pip install pygame
 Das Hauptprogramm kann über die Datei `loesung.py` gestartet werden:
 
 ```bash
-python loesung.py
+python3 loesung.py
 ```
 
 ## Bedienung
